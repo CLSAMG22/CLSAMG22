@@ -22,10 +22,8 @@
 
 <p align="center"><img src="./assets/divider.png" alt="" width="100%"></p>
 
-<h3 align="center">🔥 The Record of Deeds</h3>
-
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart" width="100%">
+  <img src="./assets/record.svg" alt="The Record of Deeds: contributions of the last year" width="100%">
 </p>
 
 <p align="center">
