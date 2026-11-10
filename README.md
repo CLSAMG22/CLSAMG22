@@ -38,10 +38,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=c9a227" alt="C++">
   <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=c9a227" alt="Python">
-  <img src="https://img.shields.io/badge/PowerShell-1a1a1a?style=for-the-badge&logo=powershell&logoColor=c9a227" alt="PowerShell">
+  <img src="https://img.shields.io/badge/PowerShell-1a1a1a?style=for-the-badge" alt="PowerShell">
   <img src="https://img.shields.io/badge/CMake-1a1a1a?style=for-the-badge&logo=cmake&logoColor=c9a227" alt="CMake">
   <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=c9a227" alt="Git">
-  <img src="https://img.shields.io/badge/Windows-1a1a1a?style=for-the-badge&logo=windows&logoColor=c9a227" alt="Windows">
+  <img src="https://img.shields.io/badge/Windows-1a1a1a?style=for-the-badge" alt="Windows">
 </p>
 
 ### 🔥 The Record of Deeds
@@ -51,8 +51,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CLSAMG22&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a227&icon_color=8b0000&text_color=b0b0b0&custom_title=Souls+Gathered" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLSAMG22&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c9a227&text_color=b0b0b0&custom_title=Tongues+Spoken" alt="top languages">
+  <img src="https://streak-stats.demolab.com?user=CLSAMG22&hide_border=true&background=0d0d0d&ring=8b0000&fire=c9a227&currStreakNum=c9a227&sideNums=b0b0b0&currStreakLabel=c9a227&sideLabels=b0b0b0&dates=666666&stroke=333333" alt="contribution streak">
 </p>
 
 ---
