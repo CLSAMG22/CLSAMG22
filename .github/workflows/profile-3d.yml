@@ -1,0 +1,29 @@
+# Draws the 3D contribution chart once a day and saves it into the folder profile-3d-contrib/.
+# The README shows profile-3d-contrib/profile-night-rainbow.svg.
+name: Profile 3D chart
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # every day at 18:00 UTC
+  workflow_dispatch:        # also lets you start it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Save the pictures
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "Update 3D chart"; then git push; fi
