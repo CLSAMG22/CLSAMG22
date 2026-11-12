@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.webp" alt="CLS_AMG — Game Developer • Modder • Gamer. “I’m not a hero… never was.” — Raiden" width="100%">
+  <img src="./assets/banner.webp" alt="CLS_AMG — Game Developer • Modder • Gamer" width="100%">
 </p>
 
 <p align="center">
@@ -38,5 +38,3 @@
 <p align="center">
   <img src="./assets/footer.webp" alt="Metal Gear Rising: Revengeance" width="100%">
 </p>
-
-<sub><p align="center">Wallpaper art: Metal Gear Rising: Revengeance © Konami Digital Entertainment / PlatinumGames — live wallpapers via MoeWalls. Fan profile, no affiliation.</p></sub>
