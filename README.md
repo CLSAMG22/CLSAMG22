@@ -1,35 +1,42 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="CLS_AMG — Bearer of the Unfinished Flame. Ahh... another wanderer, drawn to this forsaken repository. Come, rest a while. There are worlds yet to be built, and countless horrors lurking between the lines. I am CLS_AMG — an architect of forgotten worlds, a hunter of ancient bugs, and a prisoner to the endless cycle of creation and destruction. Many projects have fallen. Many builds have failed. Yet the flame remains." width="100%">
+  <img src="./assets/banner.webp" alt="CLS_AMG — Game Developer • Modder • Gamer. “I’m not a hero… never was.” — Raiden" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CLSAMG22&label=WANDERERS+PASSED&color=8b0000&style=for-the-badge" alt="profile views">
-  <img src="https://img.shields.io/github/followers/CLSAMG22?label=KINDRED&style=for-the-badge&color=3b3b3b&labelColor=1a1a1a" alt="followers">
-</p>
-
-<p align="center"><img src="./assets/divider.png" alt="" width="100%"></p>
-
-<h3 align="center">⚔️ Armaments</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-0d0609?style=for-the-badge&logo=cplusplus&logoColor=c9a227" alt="C++">
-  <img src="https://img.shields.io/badge/Python-0d0609?style=for-the-badge&logo=python&logoColor=c9a227" alt="Python">
-  <img src="https://img.shields.io/badge/PowerShell-0d0609?style=for-the-badge" alt="PowerShell">
-  <img src="https://img.shields.io/badge/CMake-0d0609?style=for-the-badge&logo=cmake&logoColor=c9a227" alt="CMake">
-  <img src="https://img.shields.io/badge/Git-0d0609?style=for-the-badge&logo=git&logoColor=c9a227" alt="Git">
-  <img src="https://img.shields.io/badge/Windows-0d0609?style=for-the-badge" alt="Windows">
-</p>
-
-<p align="center"><img src="./assets/divider.png" alt="" width="100%"></p>
-
-<p align="center">
-  <img src="./assets/record.svg" alt="The Record of Deeds: contributions of the last year" width="100%">
+  <a href="https://github.com/CLSAMG22">
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=2600&pause=900&color=C8101E&center=true&vCenter=true&width=760&lines=%3E+CODEC+140.85+%E2%80%94+connection+established;Modding+Command+%26+Conquer%3A+Zero+Hour;Building+LEGION+%E2%80%94+an+AI+that+refuses+to+lose;C%2B%2B+%E2%80%A2+Game+engines+%E2%80%A2+Mods+%E2%80%A2+Tools;Every+bug+gets+Zandatsu." alt="Modding Command & Conquer: Zero Hour — Building LEGION — C++, game engines, mods, tools">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CLSAMG22&hide_border=true&background=0d0609&ring=8b0000&fire=c9a227&currStreakNum=c9a227&sideNums=b0b0b0&currStreakLabel=c9a227&sideLabels=b0b0b0&dates=666666&stroke=3a1215" alt="contribution streak">
+  <img src="https://img.shields.io/github/followers/CLSAMG22?label=FOLLOWERS&style=for-the-badge&color=c8101e&labelColor=0a0a0c" alt="followers">
+</p>
+
+<h3 align="center">⚔️ HF BLADE ARSENAL</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-0a0a0c?style=for-the-badge&logo=cplusplus&logoColor=ff3b4a" alt="C++">
+  <img src="https://img.shields.io/badge/Python-0a0a0c?style=for-the-badge&logo=python&logoColor=ff3b4a" alt="Python">
+  <img src="https://img.shields.io/badge/Blender-0a0a0c?style=for-the-badge&logo=blender&logoColor=ff3b4a" alt="Blender">
+  <img src="https://img.shields.io/badge/DirectX-0a0a0c?style=for-the-badge" alt="DirectX">
+  <img src="https://img.shields.io/badge/CMake-0a0a0c?style=for-the-badge&logo=cmake&logoColor=ff3b4a" alt="CMake">
+  <img src="https://img.shields.io/badge/Git-0a0a0c?style=for-the-badge&logo=git&logoColor=ff3b4a" alt="Git">
 </p>
 
 <p align="center">
-  <img src="./assets/footer.jpg" alt="May your commits be clean, and your builds never falter." width="100%">
+  <img src="./assets/strip.webp" alt="Zandatsu record — contributions" width="100%">
 </p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-raiden.svg" alt="3D contribution calendar" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CLSAMG22&hide_border=true&background=0A0A0C&ring=C8101E&fire=FF3B4A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF3B4A&sideLabels=B0B0B0&dates=7A7A80&stroke=2A2A30" alt="contribution streak" width="80%">
+</p>
+
+<p align="center">
+  <img src="./assets/footer.webp" alt="Metal Gear Rising: Revengeance" width="100%">
+</p>
+
+<sub><p align="center">Wallpaper art: Metal Gear Rising: Revengeance © Konami Digital Entertainment / PlatinumGames — live wallpapers via MoeWalls. Fan profile, no affiliation.</p></sub>

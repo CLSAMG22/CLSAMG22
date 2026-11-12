@@ -1,0 +1,25 @@
+{
+  "type": "normal",
+  "fileName": "profile-raiden.svg",
+  "backgroundColor": "#0a0a0c",
+  "foregroundColor": "#e8e8e8",
+  "strongColor": "#ff2a3a",
+  "weakColor": "#7a7a80",
+  "radarColor": "#c8101e",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1c1c21",
+    "#4d0a12",
+    "#80101b",
+    "#c8101e",
+    "#ff3b4a"
+  ],
+  "l10n": {
+    "commit": "Commit",
+    "repo": "Repo",
+    "review": "Review",
+    "pullreq": "PullReq",
+    "issue": "Issue",
+    "contrib": "contributions"
+  }
+}
