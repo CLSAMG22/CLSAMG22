@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/CLSAMG22">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=2600&pause=900&color=C8101E&center=true&vCenter=true&width=760&lines=%3E+CODEC+140.85+%E2%80%94+connection+established;Modding+Command+%26+Conquer%3A+Zero+Hour;Building+LEGION+%E2%80%94+an+AI+that+refuses+to+lose;C%2B%2B+%E2%80%A2+Game+engines+%E2%80%A2+Mods+%E2%80%A2+Tools;Every+bug+gets+Zandatsu." alt="Modding Command & Conquer: Zero Hour — Building LEGION — C++, game engines, mods, tools">
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=2600&pause=900&color=C8101E&center=true&vCenter=true&width=900&lines=%3E+CODEC+140.85+%E2%80%94+connection+established;Main+project%3A+BBSC+%E2%80%94+Bloodborne+Seamless+Co-op;One+shared+campaign%2C+start+to+finish;Bosses%2C+deaths%2C+lamps%2C+Chalice+Dungeons+%E2%80%94+together;Modding+Command+%26+Conquer%3A+Zero+Hour;Building+LEGION+%E2%80%94+an+AI+that+refuses+to+lose;Every+bug+gets+Zandatsu." alt="Main project: BBSC — Bloodborne Seamless Co-op. Also: modding Command & Conquer: Zero Hour, building LEGION">
   </a>
 </p>
 
